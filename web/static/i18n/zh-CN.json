@@ -4781,6 +4781,8 @@
     "deleteRoleConfirm": "确认删除该平台角色？",
     "scopeHint": "资源范围与操作权限共同决定最终访问能力。",
     "builtinAccount": "内置账号",
+    "protectBuiltinAdminRole": "内置管理员必须保留管理员角色",
+    "protectBuiltinAdminEnabled": "内置管理员不能停用",
     "statusEnabled": "启用",
     "statusDisabled": "停用",
     "noRoleAssigned": "未分配角色",

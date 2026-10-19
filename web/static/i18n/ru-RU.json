@@ -4806,6 +4806,8 @@
     "deleteRoleConfirm": "Удалить эту роль платформы?",
     "scopeHint": "Область ресурсов и права на операции вместе определяют фактический доступ.",
     "builtinAccount": "Встроенная учётная запись",
+    "protectBuiltinAdminRole": "Встроенный администратор должен сохранять роль admin",
+    "protectBuiltinAdminEnabled": "Встроенного администратора нельзя отключить",
     "statusEnabled": "Включена",
     "statusDisabled": "Отключена",
     "noRoleAssigned": "Роль не назначена",

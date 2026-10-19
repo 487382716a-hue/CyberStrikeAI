@@ -4793,6 +4793,8 @@
     "deleteRoleConfirm": "Delete this platform role?",
     "scopeHint": "Resource scope and operation permissions jointly determine effective access.",
     "builtinAccount": "Built-in account",
+    "protectBuiltinAdminRole": "The built-in administrator must retain the admin role",
+    "protectBuiltinAdminEnabled": "The built-in administrator cannot be disabled",
     "statusEnabled": "Enabled",
     "statusDisabled": "Disabled",
     "noRoleAssigned": "No role assigned",
